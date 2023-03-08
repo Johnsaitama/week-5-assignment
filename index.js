@@ -1,4 +1,4 @@
-console.log("coding assignment");
+
 
 class Guitar {
     constructor(wood, color){
